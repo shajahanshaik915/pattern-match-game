@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/shajahanshaik915/pattern-match-game.git/static/css/main.842fab4f.css",
-    "main.js": "/shajahanshaik915/pattern-match-game.git/static/js/main.1cb3ecfa.js",
-    "static/media/green.mp3": "/shajahanshaik915/pattern-match-game.git/static/media/green.bb7cfbf2f804efc7cc38.mp3",
-    "static/media/red.mp3": "/shajahanshaik915/pattern-match-game.git/static/media/red.cda1b21ae7cfb8bc5f8b.mp3",
-    "static/media/yellow.mp3": "/shajahanshaik915/pattern-match-game.git/static/media/yellow.ea398e3ee263b328f564.mp3",
-    "static/media/wrong.mp3": "/shajahanshaik915/pattern-match-game.git/static/media/wrong.09270cc34fb672dfee40.mp3",
-    "static/media/blue.mp3": "/shajahanshaik915/pattern-match-game.git/static/media/blue.0407f8865464d427dc9a.mp3",
-    "index.html": "/shajahanshaik915/pattern-match-game.git/index.html",
-    "main.842fab4f.css.map": "/shajahanshaik915/pattern-match-game.git/static/css/main.842fab4f.css.map",
-    "main.1cb3ecfa.js.map": "/shajahanshaik915/pattern-match-game.git/static/js/main.1cb3ecfa.js.map"
+    "main.css": "/pattern-match-game/static/css/main.842fab4f.css",
+    "main.js": "/pattern-match-game/static/js/main.9345c7b6.js",
+    "static/media/green.mp3": "/pattern-match-game/static/media/green.bb7cfbf2f804efc7cc38.mp3",
+    "static/media/red.mp3": "/pattern-match-game/static/media/red.cda1b21ae7cfb8bc5f8b.mp3",
+    "static/media/yellow.mp3": "/pattern-match-game/static/media/yellow.ea398e3ee263b328f564.mp3",
+    "static/media/wrong.mp3": "/pattern-match-game/static/media/wrong.09270cc34fb672dfee40.mp3",
+    "static/media/blue.mp3": "/pattern-match-game/static/media/blue.0407f8865464d427dc9a.mp3",
+    "index.html": "/pattern-match-game/index.html",
+    "main.842fab4f.css.map": "/pattern-match-game/static/css/main.842fab4f.css.map",
+    "main.9345c7b6.js.map": "/pattern-match-game/static/js/main.9345c7b6.js.map"
   },
   "entrypoints": [
     "static/css/main.842fab4f.css",
-    "static/js/main.1cb3ecfa.js"
+    "static/js/main.9345c7b6.js"
   ]
 }
