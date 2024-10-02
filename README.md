@@ -1,4 +1,4 @@
-# Simon Game
+# [Simon Game](https://shajahanshaik915.github.io/pattern-match-game/)
 
 This project is built using React Js and Tailwind CSS.
 
