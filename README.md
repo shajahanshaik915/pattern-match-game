@@ -1,4 +1,4 @@
-<h1><a href="https://shajahanshaik915.github.io/pattern-match-game/" style="color:black">Simon Game</a></h1>
+<h1><a href="https://shajahanshaik915.github.io/pattern-match-game/" style="color: black; text-decoration: none;">Simon Game</a></h1>
 
 This project is built using React Js and Tailwind CSS.
 
